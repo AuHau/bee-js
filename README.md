@@ -19,9 +19,7 @@
 - [Install](#install)
   - [npm](#npm)
   - [Use in Node.js](#use-in-nodejs)
-  - [Use in a browser with browserify, webpack or any other bundler](#use-in-a-browser-with-browserify-webpack-or-any-other-bundler)
-  - [Use in a browser Using a script tag](#use-in-a-browser-using-a-script-tag)
-- [Usage](#usage)
+  - [Use in a browser with browserify, 
 - [API](#api)
 - [Contribute](#contribute)
   - [Setup](#setup)
