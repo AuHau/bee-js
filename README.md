@@ -48,7 +48,7 @@ var Bee = require("@ethersphere/bee-js");
 var Bee = require("@ethersphere/bee-js");
 ```
 
-### Use in a browser Using a script tag
+### Use in a browser Using a
 
 Loading this module through a script tag will make the `Bee` object available in the global namespace.
 
