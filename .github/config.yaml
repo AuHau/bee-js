@@ -4,6 +4,8 @@ labels:
 release:
   trigger:
     title: '^chore: release'
+    labels:
+      - 'release'
   checklist: |
     # Release checklist 🚀
     
